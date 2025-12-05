@@ -1,0 +1,4 @@
+/opt/clion/clion-2024.2.4/bin/cmake/linux/aarch64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/opt/clion/clion-2024.2.4/bin/ninja/linux/aarch64/ninja -G Ninja -S /home/jetson/Desktop/Codefile -B /home/jetson/Desktop/Codefile/cmake-build-debug
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/jetson/Desktop/Codefile/cmake-build-debug
